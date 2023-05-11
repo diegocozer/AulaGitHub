@@ -1,3 +1,5 @@
+package src;
+
 public class ConverterComVariavel {
     public void main (String[] str){
 //        Converta um int em um long e armazene o resultado em uma variável do tipo long ok

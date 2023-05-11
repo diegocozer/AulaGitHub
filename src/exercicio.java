@@ -1,4 +1,5 @@
-import java.text.DecimalFormat;
+package src;
+
 import java.util.Scanner;
 
 public class exercicio {

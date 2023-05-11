@@ -1,4 +1,5 @@
-import java.util.HexFormat;
+package src;
+
 import java.util.Scanner;
 
 public class Main {

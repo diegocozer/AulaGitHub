@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package src;
 
 public class desafiosextafeira {
 

@@ -1,7 +1,10 @@
+package src;
+
 import java.text.DecimalFormat;
-import java.text.Format;
-import java.text.NumberFormat;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Locale;
+import java.util.Random;
+import java.util.Scanner;
 
 public class exercicioArrayList {
 
